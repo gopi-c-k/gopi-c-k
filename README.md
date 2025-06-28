@@ -25,10 +25,10 @@ As a passionate and driven **Full-Stack Developer**, I specialize in the **MERN 
 
 ### 🔭 **Highlighted Projects**  
 - **gopzCollab – Real-time Collaboration Platform:**  
-  A powerful MERN + Firebase-based platform enabling multiple users to collaborate in real-time. Features include **live document editing**, **cursor tracking**, **role-based permissions**, and **editor history**, inspired by tools like Google Docs.
+  A powerful MERN + Socket.io platform enabling multiple users to collaborate in real-time. Features include **live document/canvas/code editing**, **cursor tracking**, **role-based permissions**, and **editor history**, inspired by tools like Google Docs, Figma and VsCode.
 
 - **GramSnap – Social Media Platform:**  
-  A feature-rich MERN stack app with user authentication, real-time messaging, typing indicators, AI-based content features, and dynamic feed system.
+  A feature-rich MERN stack app with user authentication, real-time messaging, typing indicators, push notifications and dynamic feed system.
 
 - **Smart Attendance App (Flutter + Node.js):**  
   Built a mobile app using Flutter and Node.js for accurate and intuitive attendance tracking.
@@ -46,7 +46,6 @@ As a passionate and driven **Full-Stack Developer**, I specialize in the **MERN 
 ---
 
 ### 🧠 **Learning & Writing**  
-- 100-day blog series on **DSA with C++**, **Python**, and **Problem Solving**  
 - Medium blogs covering Java, MERN Stack, AI projects, and LeetCode journey  
 - Active learner of **Advanced Java**, **Project Reactor**, and **Edge Computing**
 
