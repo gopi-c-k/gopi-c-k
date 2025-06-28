@@ -30,8 +30,8 @@ As a passionate and driven **Full-Stack Developer**, I specialize in the **MERN 
 - **GramSnap – Social Media Platform:**  
   A feature-rich MERN stack app with user authentication, real-time messaging, typing indicators, AI-based content features, and dynamic feed system.
 
-- **Smart Attendance App (Flutter + Firebase):**  
-  Built a mobile app using Flutter and Firebase for accurate and intuitive attendance tracking.
+- **Smart Attendance App (Flutter + Node.js):**  
+  Built a mobile app using Flutter and Node.js for accurate and intuitive attendance tracking.
 
 - **Fruit Quality Detection using AI:**  
   Built deep learning models using PyTorch for detecting indoor/outdoor images, classifying fruits (apple, banana, orange), and identifying fresh vs rotten fruit quality.
