@@ -1,6 +1,6 @@
 ## Hello, I'm **Gopi C K** 👋  
 
-### MERN Stack Developer | LeetCode Streaker | AI & Problem Solving Enthusiast  
+### MERN Stack Developer | Software Engineer | AI & Problem Solving Enthusiast  
 
 ---
 
