@@ -8,7 +8,7 @@
 As a passionate and driven **Full-Stack Developer**, I specialize in the **MERN Stack** (MongoDB, Express.js, React, Node.js) and love building impactful and intelligent web solutions. With a strong foundation in **data structures, algorithms**, and a deep interest in **AI integration**, I thrive in crafting applications that are both **efficient** and **user-centric**.
 
 **Key Highlights:**  
-- 400+ day **LeetCode streak** and 800+ problems solved 💪  
+- 700+ day **LeetCode streak** and 1000+ problems solved 💪  
 - Experienced in developing real-world **full-stack apps** with clean architecture  
 - Explorer of **AI integrations** in modern web applications  
 
