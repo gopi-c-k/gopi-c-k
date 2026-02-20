@@ -1,142 +1,181 @@
-## Hello, I'm **Gopi C K** 👋  
-### MERN Stack Developer | Software Engineer | AI & Real-Time Systems Enthusiast  
+# Gopi C K
 
-🚀 Building scalable full-stack products with **MERN**, **AI**, and **real-time collaboration**
+**Building systems that think, scale, and collaborate**  
+Full-Stack Engineer • MERN Specialist • AI Systems Architect • Embedded Systems Developer
 
----
-
-## 👨‍💻 Professional Summary  
-
-I am a passionate **Full-Stack Software Engineer** specializing in the **MERN Stack**, real-time systems, and **AI-powered applications**. I enjoy solving complex problems, designing clean architectures, and shipping products that scale.
-
-With a strong foundation in **Data Structures & Algorithms**, hands-on experience in **production-grade systems**, and a growing focus on **LLMs & AI integrations**, I bridge the gap between **engineering depth** and **practical impact**.
-
-### Highlights  
-- 🔥 **800+ day LeetCode streak** | 1000+ problems solved  
-- 🧠 Strong problem-solving & system design mindset  
-- ⚡ Experience with **real-time collaboration**, **WebSockets**, and **CRDTs**  
-- 🤖 Built AI systems using **RAG, FAISS, FastAPI, and LLM pipelines**  
-- ✍️ Medium writer with **10K+ monthly reads**
+> *"Trust the Process."*
 
 ---
 
-## 🎓 Education  
+## 🎯 What I Do
 
-**VIT University, Vellore – India**  
-**M.Tech (Integrated) in Software Engineering**  
-📊 CGPA: **9.04**  
-📅 2022 – Present  
+I craft intelligent systems at the intersection of **full-stack development** and **AI engineering**—from real-time collaborative platforms to RAG-powered document reasoners. My work focuses on building scalable architectures that solve real problems, not just tech demos.
 
----
-
-## 💼 Experience  
-
-### **Web Developer Intern**  
-**Recilens Corporation** · Remote  
-📅 Jul 2025 – Sep 2025  
-- Developed scalable web modules and integrated **20+ RESTful APIs**  
-- Optimized request–response workflows, improving performance by **35%**  
-- Worked with modern JavaScript frameworks and clean API design principles  
-
-### **Product Designer Intern**  
-**Valsco Technology** · Remote  
-📅 Mar 2024 – Jul 2024  
-- Designed mobile-first, responsive UI systems using **Figma**  
-- Collaborated with Agile teams and applied UX best practices  
-- Improved task completion rate by **25%** through usability testing  
+**Core Philosophy:** Clean code. Modular design. Ship with confidence.
 
 ---
 
-## 🔭 Highlighted Projects  
+## 🔥 Featured Projects
 
-### **DocuScope AI – Document Reasoner**  
-**Tech:** React, FastAPI, FAISS, Python, LLMs  
-- Built an **AI-powered document intelligence system** for secure PDF ingestion  
-- Implemented **Self-Healing RAG-based Q&A** with FAISS vector indexing  
-- Designed modular, scalable LLM pipelines with FastAPI  
+### 🌍 [GramSnap](https://github.com/gopi-c-k/gramsnap-fullstack) — Real-Time Social Platform
+*Because social apps should feel instant, not laggy*
 
----
+A production-grade social media platform built with the MERN stack, designed for real-time interaction at scale.
 
-### **GramSnap – Full-Stack Social Media Platform**  
-**Tech:** MERN Stack, Socket.IO, JWT  
-- Developed a scalable social platform with feeds, follows, and personalization  
-- Implemented **real-time messaging** with typing indicators & seen receipts  
-- Secured APIs using **JWT, bcrypt, and RBAC**  
+**What Makes It Different:**
+- 🔐 JWT + RBAC security architecture with refresh token rotation
+- ⚡ WebSocket-powered chat with typing indicators & read receipts
+- 🎯 Algorithm-driven personalized feeds with follow graph optimization
+- 🏗️ Modular microservices-ready backend design
+- 📊 Built for horizontal scaling from day one
 
----
-
-### **GopzCollab – Real-Time Collaboration Platform**  
-**Tech:** React, Node.js, Yjs, WebSockets, Firebase  
-- Engineered a collaborative editor for **text, code, and canvas** editing  
-- Used **Yjs CRDTs** for low-latency, conflict-free synchronization  
-- Implemented presence tracking, cursor sharing, and role-based access  
+**Tech:** MongoDB • Express • React • Node.js • Socket.io • Redis
 
 ---
 
-### **GripSense – Embedded IoT Safety System**  
-**Tech:** ESP32, Embedded C, FSR, MPU6050  
-- Built an embedded safety system using grip pressure & motion sensing  
-- Dynamically adjusted motor speed based on real-time sensor fusion  
+### 🧠 [DocuScope AI](https://github.com/gopi-c-k/document-reasoner) — Document Intelligence System
+*Your documents, now conversational*
+
+An AI-powered RAG system that transforms static PDFs into interactive knowledge bases you can query naturally.
+
+**What Makes It Different:**
+- 🎯 RAG pipeline with FAISS vector indexing for semantic search
+- 🔄 Self-healing retrieval with query rewriting & relevance scoring
+- ⚡ FastAPI backend optimized for inference latency
+- 🧩 Pluggable LLM architecture (OpenAI, Anthropic, local models)
+- 📚 Multi-document reasoning with context fusion
+
+**Tech:** Python • FastAPI • LangChain • FAISS • OpenAI API
 
 ---
 
-### **Content-Agent – AI Writing System**  
-**Tech:** Python, LLMs, Modular Architecture  
-- Designed a modular LLM agent for planning, drafting, critiquing, and refining content  
-- Improved iteration efficiency and long-form content quality  
+### ✍️ [GopzCollab](https://github.com/gopi-c-k/gopzCollab) — Real-Time Collaboration Platform
+*Google Docs, but you built it*
+
+A conflict-free collaborative editor supporting simultaneous multi-user editing with presence awareness.
+
+**What Makes It Different:**
+- 🔀 Yjs CRDT for mathematically guaranteed conflict resolution
+- 👥 Real-time cursor tracking & user presence system
+- 🎨 Supports rich text, code blocks, and canvas collaboration
+- 🔒 Role-based permissions with granular access control
+- 📡 WebSocket architecture with automatic reconnection
+
+**Tech:** React • Yjs • WebSockets • Monaco Editor • TipTap
 
 ---
 
-## 🛠 Technical Skills  
+### 🤖 [Content-Agent](https://github.com/gopi-c-k/Content-Agent) — AI Writing System
+*Content that writes, critiques, and improves itself*
 
-### **Languages**  
-C / C++, Java, Python, JavaScript (ES6+), TypeScript, SQL  
+A multi-stage LLM pipeline that produces publication-quality content through iterative reasoning.
 
-### **Frontend**  
-React.js, React Native, Redux Toolkit, HTML5, CSS3  
+**What Makes It Different:**
+- 🎭 Four-agent architecture: Planner → Writer → Critic → Refiner
+- 🔄 Iterative feedback loop with quality scoring
+- 📝 Context-aware tone & style adaptation
+- 🧠 Chain-of-thought reasoning at every stage
+- 🎯 Specialized for long-form technical content
 
-### **Backend & APIs**  
-Node.js, Express.js, FastAPI, REST APIs, Socket.IO, JWT, Firebase  
-
-### **Databases**  
-MongoDB, Firebase Firestore, MySQL, Supabase  
-
-### **AI / ML**  
-Python, NumPy, Pandas, OpenCV, LLMs, Prompt Engineering, RAG  
-
-### **DevOps & Tooling**  
-Git, GitHub, GitHub Actions (CI/CD), Linux, Postman  
+**Tech:** Python • LangChain • OpenAI API • Prompt Engineering
 
 ---
 
-## 📜 Certifications  
+### ⚡ [GripSense](https://github.com/gopi-c-k/Grip-Sense) — IoT Safety System
+*Embedded systems that care about safety*
 
-- **AWS Certified Cloud Practitioner**
+A real-time grip and motion sensing system for industrial safety applications.
 
----
+**What Makes It Different:**
+- 🎛️ ESP32-based with FSR + MPU6050 sensor fusion
+- 🔬 Real-time anomaly detection in grip patterns
+- ⚙️ Dynamic motor response adjustment based on safety thresholds
+- 📊 Low-latency sensor data processing (<50ms)
+- 🛡️ Fail-safe architecture with hardware watchdogs
 
-## 🏆 Accomplishments  
-
-- 🧩 **800+ day LeetCode streak** with 1000+ problems solved  
-- ✍️ Medium writer with **10K+ monthly readers**  
-- 📄 **Patent Published (2025):**  
-  *Offline biometric attendance system using local Wi-Fi, mDNS discovery, and fingerprint authentication*
-
----
-
-## 📫 Let’s Connect  
-
-- 📧 **Email:** gopick2004@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/gopi-c-k  
-- 🧠 **LeetCode:** https://leetcode.com/u/Gopi_C_K  
-- 🌐 **Portfolio:** https://gopi-portfolio-five.vercel.app
+**Tech:** C++ • ESP32 • I2C Protocol • Sensor Fusion
 
 ---
 
-## 💼 Actively Looking For  
+## 🛠️ Tech Arsenal
 
-🚀 **MERN Stack Intern / Full-Stack Developer Roles**  
-Especially opportunities involving **AI features**, **real-time systems**, and **scalable architectures**.
+**Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-> *“Consistency beats talent when talent doesn’t work consistently.”*  
-> — The mindset behind my daily learning and long LeetCode journey.
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**AI & ML**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+**DevOps & Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 📊 LeetCode Journey
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Gopi_C_K?theme=dark&font=Ubuntu)](https://leetcode.com/Gopi_C_K)
+
+---
+
+## 🌐 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gopi-portfolio-five.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopi-c-k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gopi-c-k)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopick2004@gmail.com)
+
+---
+
+## 💭 Current Focus
+
+🔭 Building AI-powered developer tools  
+🌱 Exploring distributed systems architecture  
+🤝 Open to collaborating on full-stack & AI projects  
+💬 Ask me about MERN, RAG systems, or real-time architectures
+
+---
+
+![Profile Visitors](https://api.visitorbadge.io/api/visitors?path=gopi-c-k&label=Profile%20Visitors&countColor=%23263759)
+
+<div align="center">
+
+### *"Trust the Process."*
+
+**Thanks for stopping by! ⭐ Star some repos if you find them interesting.**
+
+</div>
+
+---
+
+<div align="center">
+<sub>Last updated: February 2026 • Built with ❤️ and lots of ☕</sub>
+</div>
