@@ -17,6 +17,24 @@ I craft intelligent systems at the intersection of **full-stack development** an
 
 ## 🔥 Featured Projects
 
+
+
+### ⚡ [GripSense](https://github.com/gopi-c-k/Grip-Sense) — IoT Safety System
+*Embedded systems that care about safety*
+
+A real-time grip and motion sensing system for industrial safety applications.
+
+**What Makes It Different:**
+- 🎛️ ESP32-based with FSR + MPU6050 sensor fusion
+- 🔬 Real-time anomaly detection in grip patterns
+- ⚙️ Dynamic motor response adjustment based on safety thresholds
+- 📊 Low-latency sensor data processing (<50ms)
+- 🛡️ Fail-safe architecture with hardware watchdogs
+
+**Tech:** C++ • ESP32 • I2C Protocol • Sensor Fusion
+
+---
+
 ### 🌍 [GramSnap](https://github.com/gopi-c-k/gramsnap-fullstack) — Real-Time Social Platform
 *Because social apps should feel instant, not laggy*
 
@@ -78,22 +96,6 @@ A multi-stage LLM pipeline that produces publication-quality content through ite
 - 🎯 Specialized for long-form technical content
 
 **Tech:** Python • LangChain • OpenAI API • Prompt Engineering
-
----
-
-### ⚡ [GripSense](https://github.com/gopi-c-k/Grip-Sense) — IoT Safety System
-*Embedded systems that care about safety*
-
-A real-time grip and motion sensing system for industrial safety applications.
-
-**What Makes It Different:**
-- 🎛️ ESP32-based with FSR + MPU6050 sensor fusion
-- 🔬 Real-time anomaly detection in grip patterns
-- ⚙️ Dynamic motor response adjustment based on safety thresholds
-- 📊 Low-latency sensor data processing (<50ms)
-- 🛡️ Fail-safe architecture with hardware watchdogs
-
-**Tech:** C++ • ESP32 • I2C Protocol • Sensor Fusion
 
 ---
 
